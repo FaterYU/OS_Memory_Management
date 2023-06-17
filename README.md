@@ -1,4 +1,4 @@
-# OS-assignment
+# OS Memory Management
 Assignment for OS course in 2023
 
 ## Usage
